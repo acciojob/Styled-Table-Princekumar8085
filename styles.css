@@ -1,1 +1,13 @@
 /* your code */
+table{
+	border:solid;
+}
+th{
+	width:100px;
+	padding:10px;
+	color: white;
+	background-color: blue;
+}
+.ram{
+	background-color: cyan;
+}
